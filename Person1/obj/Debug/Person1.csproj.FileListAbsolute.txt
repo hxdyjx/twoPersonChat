@@ -1,0 +1,8 @@
+D:\projects\cs\twoPersonChat\Person1\obj\Debug\Person1.csproj.AssemblyReference.cache
+D:\projects\cs\twoPersonChat\Person1\obj\Debug\TwoPersonChat.Properties.Resources.resources
+D:\projects\cs\twoPersonChat\Person1\obj\Debug\Person1.csproj.GenerateResource.cache
+D:\projects\cs\twoPersonChat\Person1\obj\Debug\Person1.csproj.CoreCompileInputs.cache
+D:\projects\cs\twoPersonChat\Person1\bin\Debug\TwoPersonChat.exe
+D:\projects\cs\twoPersonChat\Person1\bin\Debug\TwoPersonChat.pdb
+D:\projects\cs\twoPersonChat\Person1\obj\Debug\TwoPersonChat.exe
+D:\projects\cs\twoPersonChat\Person1\obj\Debug\TwoPersonChat.pdb

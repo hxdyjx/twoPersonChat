@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\cs\\twoPersonChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|d:\\projects\\cs\\twopersonchat\\person2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|solutionrelative:person2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|d:\\projects\\cs\\twopersonchat\\person1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|solutionrelative:person1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|d:\\projects\\cs\\twopersonchat\\person1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|solutionrelative:person1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|d:\\projects\\cs\\twopersonchat\\person1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|solutionrelative:person1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|d:\\projects\\cs\\twopersonchat\\person1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8735ACF-7FED-4E7B-A574-979C0E84723B}|Person1\\Person1.csproj|solutionrelative:person1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|d:\\projects\\cs\\twopersonchat\\person2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|solutionrelative:person2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|d:\\projects\\cs\\twopersonchat\\person2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|solutionrelative:person2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|D:\\projects\\cs\\twoPersonChat\\person2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FFE23DD-9585-4CC7-A5C9-D853D05E9CF6}|Person2\\Person2.csproj|solutionrelative:person2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\projects\\cs\\twopersonchat\\twopersonchat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:twopersonchat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\projects\\cs\\twopersonchat\\twopersonchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:twopersonchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\projects\\cs\\twopersonchat\\twopersonchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:twopersonchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Person1\\Form1.Designer.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person1\\Form1.Designer.cs",
+              "RelativeToolTip": "Person1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:31:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person1\\Form1.cs",
+              "RelativeDocumentMoniker": "Person1\\Form1.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person1\\Form1.cs",
+              "RelativeToolTip": "Person1\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:31:36.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person1\\Form1.cs",
+              "RelativeDocumentMoniker": "Person1\\Form1.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person1\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Person1\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:31:34.672Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person1\\Program.cs",
+              "RelativeDocumentMoniker": "Person1\\Program.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person1\\Program.cs",
+              "RelativeToolTip": "Person1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:31:05.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Person2\\Form1.Designer.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person2\\Form1.Designer.cs",
+              "RelativeToolTip": "Person2\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:30:55.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person2\\Program.cs",
+              "RelativeDocumentMoniker": "Person2\\Program.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person2\\Program.cs",
+              "RelativeToolTip": "Person2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:30:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person2\\Form1.cs",
+              "RelativeDocumentMoniker": "Person2\\Form1.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person2\\Form1.cs",
+              "RelativeToolTip": "Person2\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:28:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\TwoPersonChat\\TwoPersonChat\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TwoPersonChat\\Form1.Designer.cs",
+              "ToolTip": "D:\\projects\\cs\\TwoPersonChat\\TwoPersonChat\\Form1.Designer.cs",
+              "RelativeToolTip": "TwoPersonChat\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:27:03.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\TwoPersonChat\\Form1.cs",
+              "RelativeDocumentMoniker": "TwoPersonChat\\Form1.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\TwoPersonChat\\Form1.cs",
+              "RelativeToolTip": "TwoPersonChat\\Form1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwFUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:25:55.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\TwoPersonChat\\Form1.cs",
+              "RelativeDocumentMoniker": "TwoPersonChat\\Form1.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\TwoPersonChat\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "TwoPersonChat\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:24:38.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\projects\\cs\\twoPersonChat\\Person2\\Form1.cs",
+              "RelativeDocumentMoniker": "Person2\\Form1.cs",
+              "ToolTip": "D:\\projects\\cs\\twoPersonChat\\Person2\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Person2\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:23:30.243Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
